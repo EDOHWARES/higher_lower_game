@@ -1,4 +1,6 @@
-# Print art
+# Print logo
+
+# Score keeping
 
 # Randomly generate data for the comparisons
 
@@ -7,8 +9,6 @@
 # Print vs
 
 # Prompt the user on who has more followers
-
-# Score keeping
 
 # Validate the user's input
     # Get number of followers for each
